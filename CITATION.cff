@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata below."
+title: "Teaching Offensive Security: A Lifecycle-Sequenced Curriculum from Kali to MITRE ATT&CK"
+abstract: >-
+  A curriculum design for offensive-security education developed while designing
+  and delivering an introductory cybersecurity engineering course: lead with the
+  attacker's mindset, sequence by the attack lifecycle, anchor to the cyber kill
+  chain and MITRE ATT&CK, teach exploitation down to the machine, loop back into
+  detection and forensics, and embed ethics throughout, with alignment to the
+  NICE workforce framework and observable assessment. Volume 5 of the
+  Engineering-to-Research monograph series.
+type: report
+authors:
+  - family-names: "Palayil"
+    given-names: "Alan Biju"
+    orcid: "https://orcid.org/0009-0004-8302-5090"
+    affiliation: "Independent Researcher; Doctoral Researcher, University of the Cumberlands"
+version: "1.1"
+date-released: "2026-06-12"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/AlanP13/Teaching-Offensive-Security-Vol5"
+keywords:
+  - cybersecurity education
+  - offensive security
+  - penetration testing
+  - MITRE ATT&CK
+  - cyber kill chain
+  - experiential learning
+  - capture the flag
+  - buffer overflow
+  - intrusion detection
+  - digital forensics
+  - NICE framework
+  - ethics
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.20821927"
+    description: "Zenodo DOI for version 1.1"
