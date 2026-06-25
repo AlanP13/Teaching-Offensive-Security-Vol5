@@ -1,0 +1,6 @@
+MD5 hash of Ch01InChap01.dd:
+a117773bcf1fc88ec0ab8e0a349fbbcb
+CertUtil: -hashfile command completed successfully.
+SHA1 hash of Ch01InChap01.dd:
+6200453567102ec6100adfa91cdbf7b1003574f6
+CertUtil: -hashfile command completed successfully.

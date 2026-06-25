@@ -1,0 +1,39 @@
+﻿Created By AccessData® FTK® Imager 3.1.2.0 
+
+Case Information: 
+Acquired using: ADI3.1.2.0
+Case Number: Assign02b_c
+Evidence Number: 2
+Unique description: Creating a Forensic Image -Class 3
+Examiner: Alan Palayil
+Notes:  
+
+--------------------------------------------------------------
+
+Information for E:\Labs\Assign02b_s\Ch01InChap01_FTKImager:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Logical
+[Drive Geometry]
+ Bytes per Sector: 512
+ Sector Count: 2,880
+[Image]
+ Image Type: Raw (dd)
+ Source data size: 1 MB
+ Sector count:    2880
+[Computed Hashes]
+ MD5 checksum:    a117773bcf1fc88ec0ab8e0a349fbbcb
+ SHA1 checksum:   6200453567102ec6100adfa91cdbf7b1003574f6
+
+Image Information:
+ Acquisition started:   Wed Sep 14 10:08:34 2022
+ Acquisition finished:  Wed Sep 14 10:08:34 2022
+ Segment list:
+  E:\Labs\Assign02b_s\Ch01InChap01_FTKImager.001
+
+Image Verification Results:
+ Verification started:  Wed Sep 14 10:08:34 2022
+ Verification finished: Wed Sep 14 10:08:34 2022
+ MD5 checksum:    a117773bcf1fc88ec0ab8e0a349fbbcb : verified
+ SHA1 checksum:   6200453567102ec6100adfa91cdbf7b1003574f6 : verified

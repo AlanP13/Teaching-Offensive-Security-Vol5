@@ -1,0 +1,8 @@
+09/13/2022, 09:15:35.1
+[E:\Labs\Assign02b_s\Ch01InChap01.dd] --> E:\Labs\Assign02b_s\Ch01InChap01_WinHex
+Sector 0 --> Beginning of file
+2,880 Sectors 
+
+09/13/2022, 09:15:35.1
+2,880 sector(s) successfully copied.
+0 bad source sectors encountered.

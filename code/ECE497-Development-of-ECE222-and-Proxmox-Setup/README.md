@@ -1,0 +1,5 @@
+# Enhancing "ECE 222: Introduction to Cybersecurity Engineering" Course Development
+
+In the ECE 222 course development, I was part of the Offensive Security team and contributed to the setup and improvement of the "ECE 222: Introduction to Cybersecurity Engineering" course for the Spring 2023 semester. My role included fixing lecture slides, developing homework assignments related to Penetration Testing and Buffer Overflows, contributing to the midterm exam, and assisting with the creation of the Penetration Test project. The course focused on various aspects of cybersecurity, covering topics such as Cybersecurity Fundamentals, Penetration Testing, Buffer Overflows, Defense Fundamentals, and Cyber Law. Students were assigned specific sections of the course to review, present, and record lectures. The course aimed to provide students with practical experience and knowledge in the field of cybersecurity through hands-on projects and assignments, while also exploring legal and ethical aspects of the domain.
+
+### Skills: Penetration Testing · Team Management · Cybersecurity · Course Development
